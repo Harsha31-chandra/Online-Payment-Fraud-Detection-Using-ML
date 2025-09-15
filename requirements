@@ -1,0 +1,6 @@
+The python libraries that used in this project are 
+pandas
+numpy
+matplotlib.pyplot
+plotly.express
+sklearn (specifically train_test_split, LogisticRegression, accuracy_score, confusion_matrix, and DecisionTreeClassifier)
